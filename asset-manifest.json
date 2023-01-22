@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RashidSiddique12/React/tree/main/Practice/textutils/static/css/main.e6c13ad2.css",
+    "main.js": "/RashidSiddique12/React/tree/main/Practice/textutils/static/js/main.f1596d4c.js",
+    "static/js/787.719ec76d.chunk.js": "/RashidSiddique12/React/tree/main/Practice/textutils/static/js/787.719ec76d.chunk.js",
+    "index.html": "/RashidSiddique12/React/tree/main/Practice/textutils/index.html",
+    "main.e6c13ad2.css.map": "/RashidSiddique12/React/tree/main/Practice/textutils/static/css/main.e6c13ad2.css.map",
+    "main.f1596d4c.js.map": "/RashidSiddique12/React/tree/main/Practice/textutils/static/js/main.f1596d4c.js.map",
+    "787.719ec76d.chunk.js.map": "/RashidSiddique12/React/tree/main/Practice/textutils/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f1596d4c.js"
+  ]
+}
